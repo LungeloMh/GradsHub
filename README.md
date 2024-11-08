@@ -25,5 +25,4 @@ The following features are available in the application to help graduate placeme
 
 
 ## Documantation:
-**Download project**:
- [https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FLungeloMh%2FGradsHub%2Frefs%2Fheads%2Fmain%2FGradsHUB.docx&wdOrigin=BROWSELINK] 
+ <a href="[https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FLungeloMh%2FGradsHub%2Frefs%2Fheads%2Fmain%2FGradsHUB.docx&wdOrigin=BROWSELINK]">**Download project**:</a>
