@@ -4,7 +4,7 @@
 **Career Plug** is a simplified platform made to make it easier to place, hire, and train graduates. By facilitating profile management, job matching, document verification, and ranking, it links graduates with Small, Medium, and Micro Enterprises (SMMEs) and other organizations. By giving graduates the necessary resources to properly showcase their abilities and helping businesses choose the best candidates, this software closes the knowledge gap between academics and business.
 
 ## Use Case Diagram
-*The primary activities that administrators can take within the Graduates Career Plug Application are depicted in this diagram. [https://imgur.com/7Eo336G]
+- The primary **activities** that administrators can take within the Graduates Career Plug Application are depicted in this diagram. [https://imgur.com/7Eo336G]
 
 ## Essential Elements
 The following features are available in the application to help graduate placement and recruitment procedures go more smoothly:
